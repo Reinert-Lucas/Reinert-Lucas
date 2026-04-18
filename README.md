@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! Soy Lucas Iván Reinert 👋
 
 Junior Web Developer viviendo Posadas, Misiones, Argentina. Me apasiona construir soluciones eficientes y accesibles, como sistemas de gestión y herramientas para empresas.
